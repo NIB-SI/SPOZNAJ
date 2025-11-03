@@ -6,7 +6,7 @@ A minimal reproducible example of web scraping with R v4.3.1 and Python v 3.9.7
 ___
 ## Useful links
 [How to Use R and Python Together](https://www.r-bloggers.com/2022/03/how-to-use-r-and-python-together-try-these-2-packages/)
-- [reticulate/][https://rstudio.github.io/reticulate/]
+- [reticulate/](https://rstudio.github.io/reticulate/)
 - [rpy2](https://rpy2.github.io/doc/latest/html/introduction.html)
 
 [Reproducible environments for R and Python](https://occasionaldivergences.com/posts/rep-env/)
@@ -19,3 +19,6 @@ ___
 - [R in Visual Studio Code](https://code.visualstudio.com/docs/languages/r)
 - [IRkernel](https://github.com/IRkernel/IRkernel)
 - [How to integrate Python and R in Visual Studio Code](https://towardsdatascience.com/how-to-integrate-python-and-r-in-visual-studio-code-496a47c90422)
+
+___
+<https://htmlpreview.github.io/>
