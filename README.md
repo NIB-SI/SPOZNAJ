@@ -1,4 +1,10 @@
 # SPOZNAJ
+
+## SURS in R
+
+Disposable household income by educational attainment level, age and gender (EUR), Slovenia, annually; minimal example.
+
+
 ## R-Py web scraping
 
 A minimal reproducible example of web scraping with R v4.3.1 and Python v 3.9.7
