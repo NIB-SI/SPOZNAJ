@@ -1,13 +1,16 @@
-# SPOZNAJ
+# materials for SPOZNAJ
+
+<https://projekt-spoznaj.si/>
 
 ## SURS in R
 
-Disposable household income by educational attainment level, age and gender (EUR), Slovenia, annually; minimal example.
+- "Disposable household income by educational attainment level, age and gender (EUR), Slovenia, annually"
+- a minimal example on how to use ```Rproj``` & ```renv```
 
 
 ## R-Py web scraping
 
-A minimal reproducible example of web scraping with R v4.3.1 and Python v 3.9.7
+- a minimal reproducible example of web scraping with R v4.3.1 and Python v 3.9.7
 
 ___
 ## Useful links
